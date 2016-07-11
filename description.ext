@@ -1,0 +1,26 @@
+respawn = BASE;
+respawndelay = 5;
+disabledAI = true;
+onLoadMissionTime=true;
+onLoadIntroTime=false;
+
+overviewPicture="res\clashpoint.jpg";
+loadScreen="res\clashpoint.jpg";
+overviewText=$STR_CLASHPOINT_DESCRIPTION;
+
+onLoadMission = $STR_Mission;
+author = "[GREUH] Zbug";
+onLoadName = $STR_Mission;
+
+class Header
+{
+	gameType = TDM;
+	minPlayers = 1;
+	maxPlayers = 40;
+};
+
+#include "GREUH\UI\GREUH_interface.hpp"
+#include "scripts\interface.hpp"
+#include "scripts\arsenal.hpp"
+#include "scripts\deathscreen.hpp"
+#include "scripts\params.hpp"

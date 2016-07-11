@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="GREUH Clashpoint">
+	<Package name="GREUH Clashpoint">
+		<Key ID="STR_Mission">
+			<Original>Clashpoint 1.5</Original>
+			<French>Clashpoint 1.5</French>
+		</Key>
+		<Key ID="STR_Version">
+			<Original>v1.5</Original>
+			<French>v1.5</French>
+		</Key>
+		<Key ID="STR_Map">
+			<Original>Altis</Original>
+			<French>Altis</French>
+		</Key>
+		<Key ID="STR_Deploy_InProgress">
+			<Original>Next round is starting...</Original>
+			<French>Début de la manche suivante...</French>
+		</Key>
+		<Key ID="STR_CLOSE">
+			<Original>Close</Original>
+			<French>Fermer</French>
+		</Key>
+		<Key ID="STR_BLUFOR_capture">
+			<Original>BLUFOR has seized the objective!</Original>
+			<French>BLUFOR a capturé l'objectif !</French>
+		</Key>
+		<Key ID="STR_OPFOR_capture">
+			<Original>OPFOR has seized the objective!</Original>
+			<French>OPFOR a capturé l'objectif !</French>
+		</Key>
+		<Key ID="STR_RES_capture">
+			<Original>The resistance has seized the objective!</Original>
+			<French>La résistance a capturé l'objectif !</French>
+		</Key>
+		<Key ID="STR_BLUFOR_TIMER">
+			<Original> minutes remaining before BLUFOR victory.</Original>
+			<French> minutes restantes avant la victoire de BLUFOR.</French>
+		</Key>
+		<Key ID="STR_OPFOR_TIMER">
+			<Original> minutes remaining before OPFOR victory.</Original>
+			<French> minutes restantes avant la victoire de OPFOR.</French>
+		</Key>
+		<Key ID="STR_BLUFOR_TIMERSECS">
+			<Original> seconds remaining before BLUFOR victory.</Original>
+			<French> secondes restantes avant la victoire de BLUFOR.</French>
+		</Key>
+		<Key ID="STR_OPFOR_TIMERSECS">
+			<Original> seconds remaining before OPFOR victory.</Original>
+			<French> secondes restantes avant la victoire de OPFOR.</French>
+		</Key>
+		<Key ID="STR_BLUFOR_win">
+			<Original>BLUFOR has won the round!</Original>
+			<French>BLUFOR a remporté la manche !</French>
+		</Key>
+		<Key ID="STR_OPFOR_win">
+			<Original>OPFOR has won the round!</Original>
+			<French>OPFOR a remporté la manche !</French>
+		</Key>
+		<Key ID="STR_FAR_Need_Medic1">
+			<Original>I need a medic!</Original>
+			<French>J'ai besoin d'un medic!</French>
+		</Key>
+		<Key ID="STR_FAR_Need_Medic2">
+			<Original>I'm hit! Medic!</Original>
+			<French>Je suis touché! Medic!</French>
+		</Key>
+		<Key ID="STR_FAR_Need_Medic3">
+			<Original>I'm down! Medic!</Original>
+			<French>Je suis à terre! Medic!</French>
+		</Key>
+		<Key ID="STR_REVIVE_LABEL">
+			<Original>YOU ARE WOUNDED</Original>
+			<French>VOUS ETES BLESSE</French>
+		</Key>
+		<Key ID="STR_OBJECTIVE">
+			<Original>Seize and Hold the clash point!</Original>
+			<French>Capturez et Tenez le clash point !</French>
+		</Key>
+		<Key ID="STR_SPAWN_PROTECT">
+			<Original>-- Spawn Protection Active --</Original>
+			<French>-- Protection au Spawn Active --</French>
+		</Key>
+		<Key ID="STR_BLEEDOUT_MESSAGE">
+			<Original>Bleedout in %1 seconds</Original>
+			<French>Mort dans %1 secondes</French>
+		</Key>
+		<Key ID="STR_BLEEDOUT_STABILIZED">
+			<Original>Stabilized</Original>
+			<French>Stabilisé</French>
+		</Key>
+		<Key ID="STR_CLASHPOINT_DESCRIPTION">
+			<Original>Instant action! Get right into intense infantry fights, play the role you like, capture and hold the CLASHPOINT to secure the victory. Can be played both in Coop or PvP, or a mix of the two, the mission setup automatically adapts to the number of players on each side.</Original>
+			<French>Action immédiate! Rejoignez rapidement des combats d'infanterie intenses, jouez le rôle qui vous plait, capturez et tenez le CLASHPPOINT pour obtenir la victoire. La mission peut être jouée en Coop comme en PvP, la configuration s'adapte automatiquement au nombre de joueurs dans chaque camp.</French>
+		</Key>
+		<Key ID="STR_PARAM_ROUND_DURATION">
+			<Original>Round duration</Original>
+			<French>Durée du round</French>
+		</Key>
+		<Key ID="STR_PARAM_DAY_AND_NIGHT">
+			<Original>Time of the day</Original>
+			<French>Heure du jour</French>
+		</Key>
+		<Key ID="STR_PARAM_DAY_AND_NIGHT1">
+			<Original>Random</Original>
+			<French>Aléatoire</French>
+		</Key>
+		<Key ID="STR_PARAM_DAY_AND_NIGHT2">
+			<Original>Day</Original>
+			<French>Jour</French>
+		</Key>
+		<Key ID="STR_PARAM_DAY_AND_NIGHT3">
+			<Original>Night</Original>
+			<French>Nuit</French>
+		</Key>
+		<Key ID="STR_AI_GROUPS">
+			<Original>Number of AI squads</Original>
+			<French>Nombre d'escouades IA</French>
+		</Key>
+		<Key ID="STR_PARAM_WEATHER">
+			<Original>Weather type</Original>
+			<French>Type de meteo</French>
+		</Key>
+		<Key ID="STR_PARAM_WEATHER1">
+			<Original>Random</Original>
+			<French>Aléatoire</French>
+		</Key>
+		<Key ID="STR_PARAM_WEATHER2">
+			<Original>Always fair</Original>
+			<French>Toujours bonne</French>
+		</Key>
+		<Key ID="STR_PARAM_REVIVE">
+			<Original>FAR revive (incompatible with some mods)</Original>
+			<French>FAR revive (incompatible avec certains mods)</French>
+		</Key>
+		<Key ID="STR_PARAM_DEPLOYABLES">
+			<Original>Deployable weapons</Original>
+			<French>Armes déployables</French>
+		</Key>
+		<Key ID="STR_PARAM_ENABLED">
+			<Original>Enabled</Original>
+			<French>Activé</French>
+		</Key>
+		<Key ID="STR_PARAM_DISABLED">
+			<Original>Disabled</Original>
+			<French>Désactivé</French>
+		</Key>
+		<Key ID="STR_DEPLOYABLE_HINT">
+			<Original>Deployable weapons are forbidden.</Original>
+			<French>Les armes déployables sont interdites.</French>
+		</Key>
+	 	<Key ID="STR_ARSENAL_TITLE">
+            <Original>ARSENAL</Original>
+            <French>ARSENAL</French>
+            <German>ARSENAL</German>
+        </Key>
+        <Key ID="STR_EDIT_LOADOUT">
+            <Original>Edit loadout</Original>
+            <French>Modifier équipement</French>
+            <German>Ausrüstung bearbeiten</German>
+        </Key>
+        <Key ID="STR_LOAD_LOADOUT">
+            <Original>Take loadout</Original>
+            <French>Charger l'équipement</French>
+            <German>Ausrüstung laden</German>
+        </Key>
+            <Key ID="STR_DEFAULT">
+            <Original>Default</Original>
+            <French>Par défaut</French>
+            <German>Standart</German>
+        </Key>
+        <Key ID="STR_MAKE_RESPAWN_LOADOUT">
+            <Original>Save respawn loadout</Original>
+            <French>Equipement de respawn</French>
+            <German>Ausrüstung bei Respawn festlegen</German>
+        </Key>
+        <Key ID="STR_MAKE_RESPAWN_LOADOUT_HINT">
+            <Original>Your current loadout will be restored on every respawn.</Original>
+            <French>Votre equipement actuel sera restauré à chaque respawn.</French>
+            <German>Deine Ausrüstung wird bei jedem Respwan wiederhergestellt.</German>
+        </Key>
+        <Key ID="STR_LOAD_PLAYER_LOADOUT">
+            <Original>Load from player</Original>
+            <French>Charger depuis joueur</French>
+            <German>Von Spieler laden</German>
+        </Key>
+        <Key ID="STR_LOAD_PLAYER_LOADOUT_HINT">
+            <Original>Successful loadout transfer from %1.</Original>
+            <French>Transfer d'équipement réussi depuis %1.</French>
+            <German>Erfolgreich Ausrüstung von %1 übertragen.</German>
+        </Key>
+        <Key ID="STR_PARAM_STAMINA">
+            <Original>Stamina</Original>
+            <French>Stamina</French>
+        </Key>
+	</Package>
+</Project>
