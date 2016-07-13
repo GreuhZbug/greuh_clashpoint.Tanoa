@@ -2,16 +2,16 @@
 <Project name="GREUH Clashpoint">
 	<Package name="GREUH Clashpoint">
 		<Key ID="STR_Mission">
-			<Original>Clashpoint 1.5</Original>
-			<French>Clashpoint 1.5</French>
+			<Original>Clashpoint 1.6</Original>
+			<French>Clashpoint 1.6</French>
 		</Key>
 		<Key ID="STR_Version">
-			<Original>v1.5</Original>
-			<French>v1.5</French>
+			<Original>v1.6</Original>
+			<French>v1.6</French>
 		</Key>
 		<Key ID="STR_Map">
-			<Original>Altis</Original>
-			<French>Altis</French>
+			<Original>Tanoa</Original>
+			<French>Tanoa</French>
 		</Key>
 		<Key ID="STR_Deploy_InProgress">
 			<Original>Next round is starting...</Original>
