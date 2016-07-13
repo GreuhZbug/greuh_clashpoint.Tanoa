@@ -1,4 +1,4 @@
-![Clashpoint](http://i.imgur.com/1oBe976.jpg)
+![Clashpoint](http://i.imgur.com/ovjQ7Un.jpg)
 
 # Clashpoint for Arma 3
 
